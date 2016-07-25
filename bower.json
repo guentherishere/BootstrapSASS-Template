@@ -1,0 +1,17 @@
+{
+  "name": "BootstrapSASS-Template",
+  "authors": [
+    "Matt Guenther <guentherishere@gmail.com>"
+  ],
+  "description": "BootstrapSASS-Template",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
